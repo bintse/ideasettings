@@ -3,6 +3,10 @@
     <option name="AShareList">
       <list>
         <option value="SZ300339" />
+        <option value="SZ002512" />
+        <option value="SZ002456" />
+        <option value="SZ002017" />
+        <option value="SZ300346" />
       </list>
     </option>
     <option name="quoteProvider" value="TENCENT" />
