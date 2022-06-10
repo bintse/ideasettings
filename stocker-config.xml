@@ -1,5 +1,10 @@
 <application>
   <component name="Stocker">
+    <option name="AShareList">
+      <list>
+        <option value="SZ300339" />
+      </list>
+    </option>
     <option name="quoteProvider" value="TENCENT" />
     <option name="version" value="1.9.0" />
   </component>
